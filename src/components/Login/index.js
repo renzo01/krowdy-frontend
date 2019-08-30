@@ -22,7 +22,8 @@ const buttonStyle ={
 const containerStyle = {
     borderStyle: 'solid',
     borderWidth: 2,
-    marginTop: 20
+    marginTop: 20,
+    borderRadius: 5
 };
 
 export default Login;
