@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Login />
+      <Login titleForm="Ingrese su numero de celular:"
+        placeholderForm='Ingrese solo números de Perú' />
     </div>
   );
 }
